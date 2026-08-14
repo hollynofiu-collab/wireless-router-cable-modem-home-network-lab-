@@ -100,5 +100,5 @@ The wireless router was connected to the cable modem using an Ethernet interface
 
 The WAN interface obtained connectivity from the ISP side, enabling simulated Internet access.
 
-Screenshots of lab (
+Screenshots of lab (https://github.com/hollynofiu-collab/wireless-router-cable-modem-home-network-lab-/blob/main/screenshots/wireless-router-and-cable-modem-home-network-topology.png)
 
